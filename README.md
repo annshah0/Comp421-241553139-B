@@ -1,4 +1,4 @@
-Here are commands to run on kali linux from msfvenom and their output described in a word file with video explaining it.
+Here are commands to run on kali Linux from msfvenom and their output is described in a Word file with a video explaining it.
 1- msfvenom -l payloads #Payloads
 2- msfvenom -l encoders
 Windows
